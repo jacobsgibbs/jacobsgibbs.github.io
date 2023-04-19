@@ -176,16 +176,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: #true
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: #true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: #true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: #true
     permalink: /:collection/:path/
 
 
