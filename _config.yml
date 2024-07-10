@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jacob Gibbs"
   avatar           : "profile.png"
-  bio              : "Economics Student at UNE"
+  bio              : #"Economics Student at UNE"
   location         : "Australia"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jacobsgibbs"
+  github           : #"jacobsgibbs"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "jacobsgibbs"
+  twitter          : #"jacobsgibbs"
   vine             :
   weibo            :
   xing             :
