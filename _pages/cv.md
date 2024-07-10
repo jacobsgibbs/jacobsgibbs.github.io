@@ -11,8 +11,7 @@ redirect_from:
 
 Education
 ======
-* Bachelor of Economics, University of New England (Armidale, Australia) - Expected 2024 Graduation
-  * Majoring in Development Economics
+
 
 Work experience
 ======
